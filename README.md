@@ -43,5 +43,5 @@ To run the notebook locally:
 ## Author
 
 Lidan Avisar  
-Machine Learning Enthusiast & Developer  
+Machine Learning Developer  
 https://github.com/LidanAvisar
